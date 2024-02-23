@@ -1,0 +1,30 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Camiseta Social Preta",
+        "price": 59.99,
+        "img": "https://www.invictus.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/0/1/01_PRETA_CAMISA_SARJA_ENDURANCE_1000x1000.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Calça vermelha",
+        "price": 90.99
+      },
+      {
+        "id": 3,
+        "name": "Boné aba reta",
+        "price": 29.99
+      },
+      {
+        "name": "Meia cano longo",
+        "price": "20.99",
+        "id": 7
+      },
+      {
+        "name": "Meia cano curto",
+        "price": "19.99",
+        "id": 8
+      }
+    ]
+  }
